@@ -1,2 +1,12 @@
 This is my sample code(imagine)
 This is for learning git
+
+<html>
+<head>
+<title> My First Code i Git </title>
+<body>
+     <h1>update</h1>
+     <p>ok go ahead with git learning at the earliest. coming week , we plan for a demo.</p>
+</body>
+</head>
+</html>
