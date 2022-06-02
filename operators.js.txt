@@ -1,0 +1,7 @@
+a=10,b=5;
+if(a>b){
+        document.write("'a' is grater than");
+        }
+else{
+     document.write("'b'is grater than");
+     }
